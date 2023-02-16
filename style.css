@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: darkblue;
+    color: white;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+
+table {
+    border: 2px solid lightcyan;
+    width: 650px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+td {
+    border: 1px solid lightcyan;
+    width: 650px;
+    margin: 0 auto;
+}
